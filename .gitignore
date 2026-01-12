@@ -7,3 +7,5 @@ X_train_processed.csv
 X_val_processed.csv
 y_train.csv
 y_val.csv
+logistic_regression_coefficients.csv
+random_forest_feature_importances.csv
