@@ -197,13 +197,6 @@ To deepen your understanding of concepts used in this project:
 - **Models:** How Logistic Regression and Random Forest work
 - **Evaluation:** Interpreting AUC, ROC curves, and other metrics
 
-## 📧 Questions?
 
-If you're new to machine learning, these notebooks are designed to be self-explanatory. Each section includes:
-- Clear comments explaining the code
-- Step-by-step progression through the ML pipeline
-- Intermediate outputs to verify your progress
 
----
-
-**Happy Learning!** This project demonstrates fundamental ML concepts in a real-world context. 🎓
+**Developed by Koumakang Parfait Aboyna**  🎓
