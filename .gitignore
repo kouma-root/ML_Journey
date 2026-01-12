@@ -1,0 +1,9 @@
+# ============================================
+# DATA FILES
+# ============================================
+# Your specific files (replace with actual names)
+cleaned_train_data.csv
+X_train_processed.csv
+X_val_processed.csv
+y_train.csv
+y_val.csv
